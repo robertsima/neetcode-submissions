@@ -1,4 +1,4 @@
-# Hi, these are my neetcode solutions. - @robertsima
+# Hi, this is a repo of my leetcode/DSA solutions - @robertsima
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
